@@ -27,7 +27,7 @@ Because what follows is a check. While you're alive, play, when you die and or m
       next_scene_name = current_scene.enter()
       #Run the room you're in
       current_scene = @scene_map.next_scene(next_scene_name)
-      #?
+      #**JUSTIN what does line 29 do? This is where I get lost**#
     end
 
     # be sure to print out the last scene
